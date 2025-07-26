@@ -1,0 +1,7 @@
+name: decentrabot
+language: python
+entryPoint: agents/sage_summarizer.py
+description: DecentraBot governance summarizer agent
+resources:
+  cpu: 1
+  memory: 2GB
